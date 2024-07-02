@@ -1,0 +1,19 @@
+.education {
+    margin-top: 2rem;
+  }
+  
+  .degree {
+    background-color: #f0f0f0;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .degree h3 {
+    margin-top: 0;
+    font-size: 1.2rem;
+  }
+  
+  .degree p {
+    margin-bottom: 0.5rem;
+  }
+  
